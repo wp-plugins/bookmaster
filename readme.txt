@@ -28,4 +28,4 @@ To install the plugin just follow these simple steps:
 2. Copy the bookmaster folder into your plugins folder ( wp-content/plugins ).
 3. Log-in to the WordPress administration panel and visit the Plugins page.
 4. Locate the BookMaster plugin and click on the activate link.
-5. Insert <?php wp_list_bookmaster('category=3'); ?> wherever you would like to show a bookmark category title. Be sure to change the category number to the category you would like to display.
+5. Insert wp_list_bookmaster('category=3'); wherever you would like to show a bookmark category title. Be sure to change the category number to the category you would like to display.
