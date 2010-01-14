@@ -7,7 +7,7 @@ Tested up to: 2.9.1
 Stable tag: 1.0
 
 
-== Description =+
+== Description ==
 
 Displays link category titles without the links. Used primarily for creating a navigation with link category titles or listing the link category name elsewhere in the post or page away from the links themselves.  BookMaster provides a cleaner method of altering category titles on the post/page by allowing you to alter them directly from the link category screen.
 
