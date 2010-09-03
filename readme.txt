@@ -9,6 +9,9 @@ Stable tag: 1.0
 
 == Description ==
 
+= Plugin URL =
+http://www.doc4design.com/plugins/bookmaster/
+
 Displays link category titles without the links. Used primarily for creating a navigation with link category titles or listing the link category name elsewhere in the post or page away from the links themselves.  BookMaster provides a cleaner method of altering category titles on the post/page by allowing you to alter them directly from the link category screen.
 
 By calling on a particular link category ID it's possible to display only that category name. It is not necessary to place this code within a loop.
