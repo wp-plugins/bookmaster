@@ -3,7 +3,7 @@ Contributors: Doc4
 Donate link: http://www.doc4design.com/donate
 Tags: blogroll, blogroll titles, blogroll categories, blogroll category, blogroll category names, links, link titles, link categories, link category, link category names, bookmarks, bookmark titles, bookmark categories, bookmark category names
 Requires at least: 2.7
-Tested up to: 3.1
+Tested up to: 3.5
 Stable tag: 1.0
 
 
@@ -12,9 +12,13 @@ Stable tag: 1.0
 = Plugin URL =
 http://www.doc4design.com/plugins/bookmaster/
 
-Displays link category titles without the links. Used primarily for creating a navigation with link category titles or listing the link category name elsewhere in the post or page away from the links themselves.  BookMaster provides a cleaner method of altering category titles on the post/page by allowing you to alter them directly from the link category screen.
+BookMaster is our answer to what we feel is an odd issue with the WordPress wp_list_bookmarks tag. For those that have exercised the use of wp_list_bookmarks, you are well aware that it is not possible to use the bookmark category title alone without calling on the bookmarks themselves. This is, of course, with the exception of excluding all bookmark categories and this can be painful if there are a lot of them.
 
-By calling on a particular link category ID it's possible to display only that category name. It is not necessary to place this code within a loop.
+With the introduction of BookMaster, we have resolved this small issue. The plugin allows you to place a bookmark category title anywhere you want without showing the bookmark links. This presents the administrator with the option of changing the bookmarks title using the bookmarks menu which will auto change the bookmark title within the code. Using this plugin will prevent the unnecessary need to alter template files.
+
+In the example below we are displaying only the title of bookmark category 3 within an h1 style tag. We can now alter this information from the bookmarks admin panel simply by changing the bookmark category name. Displaying directly below the title the bookmarks from Category 7 will print in an unordered list.
+
+While not the most effective use of this plugin the example utilized below is for educational purposes.
 
 
 == Screenshots ==
