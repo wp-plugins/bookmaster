@@ -3,8 +3,8 @@ Contributors: Doc4
 Donate link: http://www.doc4design.com/donate
 Tags: blogroll, blogroll titles, blogroll categories, blogroll category, blogroll category names, links, link titles, link categories, link category, link category names, bookmarks, bookmark titles, bookmark categories, bookmark category names
 Requires at least: 2.7
-Tested up to: 3.5
-Stable tag: 1.0
+Tested up to: 4.2.2
+Stable tag: 1.1
 
 
 == Description ==
