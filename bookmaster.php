@@ -3,7 +3,7 @@
 Plugin Name: BookMaster
 Plugin URI: http://www.doc4design.com/plugins/bookmaster
 Description: Display the link category titles without the links
-Version: 1.0
+Version: 1.1
 Author: Doc4
 Author URI: http://www.doc4design.com
 */
